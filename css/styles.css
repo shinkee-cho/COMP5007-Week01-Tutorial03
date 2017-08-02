@@ -1,0 +1,32 @@
+html, body {padding:0px; margin:0px; }
+
+th {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Helvetica, Arial;
+
+    background: #808000;
+    color: #fff;
+    padding: 10px 0;
+}
+
+td { border:1px solid #ccc; }
+
+ul {
+    list-style-type: none;
+    padding: 0 20px;
+}
+li { padding: 10px 0;}
+
+li span { font-size: 20px; }
+span.lable { color:#333; }
+span.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color:#e68a00;
+
+    /* left-side bar */
+    border-left: 10px solid #ff9900;
+    padding-left: 10px;
+}
